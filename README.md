@@ -1,0 +1,2 @@
+# Java-Projects-Autoboxing-Serialization-File-Handling
+This repository contains three Java programs demonstrating key concepts:  1. Autoboxing &amp; Unboxing– Sum of integers  using automatic conversion.   2. Serialization &amp; Deserialization – Save and retrieve a Student object to/from a file.   3. Employee Management System – Menu-driven system to add and display employees using file handling.
